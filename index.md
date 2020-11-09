@@ -1,3 +1,4 @@
 # Homepage
-personal portfolio
-  based on AngularJs
+## personal portfolio
+   based on :
+  -  AngularJs
